@@ -24,7 +24,3 @@ fields:
   config:
     required: false
   label: Link
-pages:
-- shoppingOptions/callAndMeetOrCollect.md
-- shoppingOptions/clickAndCollect.md
-- shoppingOptions/clickAndMeet.md
