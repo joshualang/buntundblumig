@@ -1,7 +1,7 @@
 ---
 headline: click and collect
-description: "<p>Vorbestellung und kontaktlose Abholung im Pavillion</p><p>Ohne Corona-Negativtest
-  </p>"
+description: "<p><strong>Vorbestellung und kontaktlose Abholung im Pavillion</strong></p><p>Ohne
+  Corona-Negativtest</p>"
 redirects: true
 redirectUrl: ''
 
