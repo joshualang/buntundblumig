@@ -9,7 +9,7 @@ sections:
 - type: directory
   path: shoppingOptions
   label: Shopping Options Card
-  create: none
+  create: documents
   match: "**/*"
 - type: directory
   path: content/posts
