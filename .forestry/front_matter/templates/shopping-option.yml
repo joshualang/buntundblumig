@@ -1,4 +1,26 @@
 ---
 label: Shopping Option
 hide_body: true
-fields: []
+fields:
+- name: headline
+  type: text
+  config:
+    required: false
+  label: Überschrift
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Beschreibung
+- name: redirects
+  type: boolean
+  label: Öffnet Link
+- name: redirectUrl
+  type: text
+  config:
+    required: false
+  label: Link
