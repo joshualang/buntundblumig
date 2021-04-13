@@ -11,6 +11,7 @@ sections:
   label: Shopping Options Card
   create: documents
   match: "**/*"
+  new_doc_ext: md
 - type: directory
   path: content/posts
   label: Blog Posts
