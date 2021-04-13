@@ -25,4 +25,5 @@ fields:
     required: false
   label: Link
 pages:
+- shoppingOptions/clickAndCollect.md
 - shoppingOptions/clickAndMeet.md
