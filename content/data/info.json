@@ -12,9 +12,9 @@
   "background_color": "#B1BCBC",
   "companyName": "bunt&blumig",
   "banking": {
-    "iban": "",
-    "bic": "",
-    "bank": ""
+    "iban": "DE 89 7005 2060 0008 2851 65",
+    "bic": "BYLADEM1LLD",
+    "bank": "Sparkasse Landsberg-Diessen"
   },
   "identNr": "",
   "titleImg": "",
