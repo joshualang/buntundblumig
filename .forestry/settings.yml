@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Content
 - type: directory
-  path: shoppingOptions
+  path: content/shoppingOptions
   label: Shopping Options Card
   create: documents
   match: "**/*"
