@@ -25,6 +25,6 @@ fields:
     required: false
   label: Link
 pages:
-- shoppingOptions/callAndMeet/collect.md
+- shoppingOptions/callAndMeetOrCollect.md
 - shoppingOptions/clickAndCollect.md
 - shoppingOptions/clickAndMeet.md
