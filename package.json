@@ -1,10 +1,10 @@
 {
-  "name": "foresry-starter-blog-gatsby",
+  "name": "buntundblumig",
   "private": true,
-  "description": "A simple starter blog to get up and developing quickly with Forestry & Gatsby",
+  "description": "A simple website for a small store :)",
   "license": "MIT",
-  "version": "0.1.0",
-  "author": "kendall strautman",
+  "version": "1.0.0",
+  "author": "joshualang",
   "scripts": {
     "build": "gatsby build",
     "dev": "gatsby develop -o",
@@ -44,6 +44,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kendallstrautman/brevifolia-gatsby-forestry"
+    "url": "https://github.com/joshualang/buntundblumig"
   }
 }
